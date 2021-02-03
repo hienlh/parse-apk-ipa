@@ -1,0 +1,21 @@
+{
+  "name": "parse-apk-ipa",
+  "version": "1.0.0",
+  "description": "",
+  "contributors": ["hienlh1298@gmail.com"],
+  
+  "main": "index.js",
+  "scripts": {
+    "build": "pkg index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "heic-convert": "^1.2.3",
+    "reiko-parser": "^1.0.8"
+  },
+  "devDependencies": {
+    "pkg": "^4.4.9"
+  }
+}
