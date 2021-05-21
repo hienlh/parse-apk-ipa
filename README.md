@@ -10,6 +10,6 @@
 
 ## Build
 
-*Use for other purpure like running like a software or inject into another backend (php, go, ...)*
+*Use for other purpure like running like software or inject into another backend (PHP, go, ...)*
 
 `npm run build`
